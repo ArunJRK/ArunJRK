@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [templesofindia.org](https://templesofindia.org)
+- 🧑🏽‍💻 I'm a Designer and Devloper
+- 🔭 I’m currently working on 
+  - [templesofindia.org](https://templesofindia.org): Largest open temples portal in the world.
 - 🌱 I’m currently learning nodejs, flutter, rust, go
 - 👯 I’m looking to collaborate on [templesofindia](https://templesofindia.org/ourVision)
 - 💬 Ask me about Tech, UX/UI Design
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arunjayaramakrishnan/)
+
 
 <!--
 **ArunJRK/ArunJRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
