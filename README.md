@@ -8,8 +8,8 @@
 - 💬 Ask me about Tech, UX/UI Design
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arunjayaramakrishnan/)
 
-### Other activities: 
-- I also developed and manage [Temples of India](https://templesofindia.org), World's largest Hindu Temples portal constains a listing of around 7 lakh temples from across the country and detailed information about more than 5000 temples. Collaborator - [Ayush Maheshwari](https://github.com/ayushbiths) 
+### Temples of India log: 
+- I co-developed and managing [Temples of India](https://templesofindia.org), World's largest Hindu Temples portal constains a listing of around 7 lakh temples from across the country and detailed information about more than 5000 temples. Collaborator - [Ayush Maheshwari](https://github.com/ayushbiths) 
 
 
 <!--
